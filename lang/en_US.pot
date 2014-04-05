@@ -1,0 +1,280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jigoshop YouTube Video Product Tab\n"
+"POT-Creation-Date: 2013-05-27 02:04+0100\n"
+"PO-Revision-Date: 2014-01-06 23:05+0100\n"
+"Last-Translator: \n"
+"Language-Team: Seb's Studio <sebastien@sebs-studio.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:83
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:95
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:140
+msgid "YouTube Video Product Tab"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:97
+msgid "If you have a license for JWPlayer, activate the official <a href=\""
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:101
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:146
+msgid "Enable JWPlayer"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:102
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:147
+msgid ""
+"Enable the use of JWPlayer as the video player for your videos in the "
+"product tab."
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:108
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:153
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:495
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:521
+msgid "Player Skin"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:109
+msgid ""
+"Select the player skin you want to use. <small>Licensed version of JWPlayer "
+"Premium/Ads is required for additional premium skins to work!</small>"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:113
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:158
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:497
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:523
+msgid "(default)"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:114
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:159
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:498
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:524
+msgid "Custom Skin"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:127
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:164
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:233
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:538
+msgid "Custom Skin Location"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:128
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:165
+msgid ""
+"Enter the url location of the custom skin. Upload your skin using the <a "
+"href=\""
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:154
+msgid ""
+"Select the player skin you want to use. <small>If you have a licensed "
+"version of JWPlayer Premium/Ads edition, it will unlock more skins to choose!"
+"</small>"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:207
+msgid "Support"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:208
+msgid "More Jigoshop Extensions"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:231
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:474
+msgid "Video Width"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:232
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:482
+msgid "Video Height"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:234
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:542
+msgid "Upload"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:235
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:596
+msgid "Insert file URL"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:236
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:539
+msgid "Enter the url location of the custom skin."
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:276
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:415
+msgid "YouTube Video"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:439
+msgid "Video Title"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:440
+msgid "Enter your title here."
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:448
+msgid "Video URL"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:457
+msgid "Video Size"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:459
+msgid "560 x 315"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:460
+msgid "640 x 360"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:461
+msgid "853 x 480"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:462
+msgid "1280 x 720"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:463
+msgid "Custom Size"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:508
+msgid "This overides the player skin selected in the <a href=\""
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:509
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:526
+msgid ""
+"Player skin only applies if you have enabled the JWPlayer in the <a href=\""
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:527
+msgid "This overides the player skin selected in the settings."
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:551
+msgid "Suggested videos"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:551
+msgid ""
+"Show suggested videos when the video is finished playing. - YouTube Player "
+"Only"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:553
+msgid "Secure connection"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:553
+msgid "Use HTTPS"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:555
+msgid "No tracking"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:555
+msgid "Enable privacy-enhanced mode. - YouTube Player Only"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:557
+msgid "Rich Snippets"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:557
+msgid ""
+"Enable video rich snippets for better product search results in search "
+"engines."
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:564
+msgid "Family Friendly"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:565
+msgid "If the video is not family friendly, select \"No\""
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:567
+msgid "Yes"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:568
+msgid "No"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:672
+msgid "Video"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\jigoshop-youtube-video-product-tab/jigoshop-youtube-video-product-tab.php:733
+msgid ""
+"requires <a href=\"http://www.jigoshop.com\" target=\"_blank\">Jigoshop</a> "
+"to be activated in order to work. Please install and activate <a href=\""
+msgstr ""
