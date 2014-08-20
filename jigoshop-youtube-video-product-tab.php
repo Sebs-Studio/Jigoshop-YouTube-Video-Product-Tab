@@ -36,15 +36,6 @@ if(!function_exists('jigo_youtube_video_tab_min_required')){
 	add_action('admin_init', 'jigo_youtube_video_tab_min_required');
 }
 
-/* Load Sebs Studio Updater */
-if(!function_exists('sebs_studio_queue_update')){
-	require_once('includes/sebs-functions.php');
-}
-/* If Sebs Studio Updater is loaded, integrate for plugin updates. */
-if(function_exists('sebs_studio_queue_update')){
-	sebs_studio_queue_update(plugin_basename(__FILE__), '909c063d204d3fa13436389da7dcb3ce', '3727');
-}
-
 // Checks if the Jigoshop plugin is installed and active.
 if(in_array('jigoshop/jigoshop.php', apply_filters('active_plugins', get_option('active_plugins')))){
 
